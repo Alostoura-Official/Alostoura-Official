@@ -86,3 +86,8 @@ I am a front-end and application developer, responsible for using programming la
 </table>
 <br/>
 <h3 align="center" > <img src="https://raw.githubusercontent.com/Alostoura-Official/profile/refs/heads/main/hc3YSwZ.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+## License
+
+This project is licensed under the Mozilla Public License 2.0.  
+See the [LICENSE](LICENSE) file for more details.
