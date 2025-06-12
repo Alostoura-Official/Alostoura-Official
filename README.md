@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <h1 align="center">🏆GitHub Profile Trophy</h1>
-<h1 align="center">Front-end and Android Developer</h1><p align="center"><img src="https://raw.githubusercontent.com/Alostoura-Official/profile/refs/heads/main/0sNawZ8.gif" width="35"></h1>
+<h1 align="center">Front-end And Application Android Developer</h1><p align="center"><img src="https://raw.githubusercontent.com/Alostoura-Official/profile/refs/heads/main/0sNawZ8.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/Alostoura-Official"><img width="220" src="https://raw.githubusercontent.com/Alostoura-Official/profile/refs/heads/main/sONuNeb.png" /></a>
 </p>
