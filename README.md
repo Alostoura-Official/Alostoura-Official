@@ -89,7 +89,7 @@ I am a front-end and application developer, responsible for using programming la
 
 ---
 
-## 📝 الرخصة
+## 📝 ⚖️الرخصة
 
 تم نشر هذا الملف بموجب رخصة **[MPL-2.0](LICENSE)**.
 
