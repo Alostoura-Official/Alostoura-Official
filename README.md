@@ -86,13 +86,15 @@ I am a front-end and application developer, responsible for using programming la
 </table>
 <br/>
 <h3 align="center" > <img src="https://raw.githubusercontent.com/Alostoura-Official/profile/main/hc3YSwZ.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<p align="center">
+  <a href="https://github.com/Alostoura-Official" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
----
 
 ## 📝 ⚖️الرخصة
 
 تم نشر هذا الملف بموجب رخصة **[MPL-2.0](LICENSE)**.
 
 ---
-
-##
