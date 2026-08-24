@@ -65,9 +65,16 @@ I am a front-end and application developer, responsible for using programming la
 
 <p align="center"> <a href="https://github.com/Alostoura-Official"><img src="/images/5NaC3xX.jpg" alt="bc-expert" width="400px"/></a> </p><h2 font-weight="bold">ANDROID APPLICATION</h2>
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Alostoura-Official&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Alostoura-Official" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Alostoura-Official&show_icons=true&locale=en&theme=chartreuse-dark" alt="Alostoura-Official" width="410" /></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alostoura-Official&theme=chartreuse-dark&hide_border=false"/>
+<p>
+  <img src="https://github-readme-stats-ecru-psi-22.vercel.app/api/top-langs/?username=Alostoura-Official&layout=compact&theme=chartreuse-dark" alt="Alostoura-Official" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats-ecru-psi-22.vercel.app/api?username=Alostoura-Official&show_icons=true&locale=en&theme=chartreuse-dark" alt="Alostoura-Official" width="410" />
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alostoura-Official&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak" />
+
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
