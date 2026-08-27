@@ -74,9 +74,9 @@ I am a front-end and Android application developer passionate about creating int
 📊 GitHub Statistics
 
 <div align="center">
-<p><img  src="https://github-readme-stats-ecru-psi-22.vercel.app/api/top-langs/?username=Alostoura-Official&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ALOSTOURA-TV" /></p>
-<p>&nbsp;<img src="https://github-readme-stats-ecru-psi-22.vercel.app/api/top-langs/?username=Alostoura-Official&show_icons=true&locale=en&theme=chartreuse-dark" alt="ALOSTOURA-TV" width="410" /></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alostoura-Official&theme=chartreuse-dark&hide_border=false"/>
+<p><img  src="https://github-readme-stats-ecru-psi-22.vercel.app/api/top-langs/?username=Alostoura-Official&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Alostoura-Official" /></p>
+<p>&nbsp;<img src="https://github-readme-stats-ecru-psi-22.vercel.app/api/top-langs/?username=Alostoura-Official&show_icons=true&locale=en&theme=chartreuse-dark" alt="Alostoura-Official" width="410" /></p>
+<img src="https://github-readme-stats-ecru-psi-22.vercel.app/api/top-langs/?username=Alostoura-Official&theme=chartreuse-dark&hide_border=false"/>
 <br>
 </div>---
 💻 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
