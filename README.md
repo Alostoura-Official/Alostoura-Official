@@ -69,16 +69,16 @@ I am a front-end and Android application developer passionate about creating int
   <a href="https://github.com/Alostoura-Official">
     <img src="/images/5NaC3xX.jpg" alt="Android Application" width="400px"/>
   </a>
-</p><h2>ANDROID APPLICATION</h2></div>---
+</p><h2>ANDROID APPLICATION</h2></div>
 
 📊 GitHub Statistics
 
 <div align="center">
 <p><img  src="https://github-readme-stats-ecru-psi-22.vercel.app/api/top-langs/?username=Alostoura-Official&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Alostoura-Official" /></p>
 <p>&nbsp;<img src="https://github-readme-stats-ecru-psi-22.vercel.app/api/top-langs/?username=Alostoura-Official&show_icons=true&locale=en&theme=chartreuse-dark" alt="Alostoura-Official" width="410" /></p>
-<img src="https://github-readme-stats-ecru-psi-22.vercel.app/api/top-langs/?username=Alostoura-Official&theme=chartreuse-dark&hide_border=false"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ALOSTOURA-TV&theme=chartreuse-dark&hide_border=false"/>
 <br>
-</div>---
+</div>
 💻 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
 
 <div align="center"><table>
@@ -105,7 +105,29 @@ I am a front-end and Android application developer passionate about creating int
       <img src="/images/0ABG049.png" width="60px" alt="Skill"/>
     </td>
   </tr>
-</table></div><br>🤝 Connect With Me
+</table></div>
+<br/>
+<h3 align="center" > <img src="hc3YSwZ.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://github.com/ALOSTOURA-TV">
+			<img src="https://i.imgur.com/fhETyl9.png" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
+		<img src="https://i.imgur.com/umFnSlb.png" width="40" height="40"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
+			<img src="https://i.imgur.com/uUJNbl3.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
+			<img src="https://i.imgur.com/5UCt2i8.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
+			<img src="https://i.imgur.com/HfZ5S9O.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
+			<img src="https://i.imgur.com/QKocJSZ.png" width="40" height="40"></a>
+      </div>
+
+</p>
+
 
 <div align="center"><a href="https://github.com/Alostoura-Official">
   <img
