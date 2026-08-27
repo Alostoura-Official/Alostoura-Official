@@ -112,17 +112,17 @@ I am a front-end and Android application developer passionate about creating int
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://github.com/ALOSTOURA-TV">
+        <a style="margin-left: 10px;"  target="_blank" href="https://github.com/Alostoura-Official">
 			<img src="https://i.imgur.com/fhETyl9.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Alostoura-Official">
 		<img src="https://i.imgur.com/umFnSlb.png" width="40" height="40"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Alostoura-Official">
 			<img src="https://i.imgur.com/uUJNbl3.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
+		<a style="margin-left: 10px;" target="_blank" href="https://github.com/Alostoura-Official">
 			<img src="https://i.imgur.com/5UCt2i8.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
+		<a style="margin-left: 10px;" target="_blank" href="https://github.com/Alostoura-Official">
 			<img src="https://i.imgur.com/HfZ5S9O.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://github.com/ALOSTOURA-TV">
+		<a style="margin-left: 10px;" target="_blank" href="https://github.com/Alostoura-Official">
 			<img src="https://i.imgur.com/QKocJSZ.png" width="40" height="40"></a>
       </div>
 
