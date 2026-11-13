@@ -43,6 +43,7 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" title="Quickdraw">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO" title="YOLO">
   
+<p align="center">
 
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire" title="Pair Extraordinaire">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" alt="Galaxy Brain" title="Galaxy Brain">
