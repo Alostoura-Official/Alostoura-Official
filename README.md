@@ -37,7 +37,14 @@
   </a>
 </p></div><br><div align="center"><img width="140" src="/images/BYgriAM.png" alt="GitHub Profile Trophy"/>
 </div><br>
-	<div align="center">
+	<h3 align="left">🏆 My GitHub Achievements</h3>
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" title="Pull Shark">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" title="Quickdraw">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO" title="YOLO">
+</p>
+	</div><br>
+	<p align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Alostoura-Official&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 <div align="center">
@@ -145,4 +152,3 @@ I am a front-end and Android application developer passionate about creating int
 📝 ⚖️ الرخصة
 
 تم نشر هذا الملف بموجب رخصة "MPL-2.0" (LICENSE).
-
