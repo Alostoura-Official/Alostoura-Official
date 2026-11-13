@@ -35,7 +35,13 @@
   </a>  <a href="https://github.com/Alostoura-Official">
     <img src="/images/MIT.svg" alt="License"/>
   </a>
-</p></div><br><div align="center"><img width="140" src="/images/BYgriAM.png" alt="GitHub Profile Trophy"/></div><br><div align="center"><img align="left" src="/images/pKd0apO.gif" width="50" height="50" alt="About Me"><h2 align="left">About Me</h2></div><br><p>
+</p></div><br><div align="center"><img width="140" src="/images/BYgriAM.png" alt="GitHub Profile Trophy"/>
+</div><br>
+	<div align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Alostoura-Official&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+<div align="center">
+<img align="left" src="/images/pKd0apO.gif" width="50" height="50" alt="About Me"><h2 align="left">About Me</h2></div><br><p>
 I am a front-end and Android application developer passionate about creating interactive web experiences and modern applications. I enjoy exploring new technologies, developing useful software solutions, and continuously improving my programming and information security skills.
 </p><div align="center"><p>
   <a href="https://github.com/Alostoura-Official">
