@@ -37,7 +37,8 @@
   </a>
 </p></div><br>
 <div align="center"><img width="140" src="/images/BYgriAM.png" alt="GitHub Profile Trophy"/>
-<div align="center"><img width="140" src="https://trendshift.io/api/badge/repositories/82054/" alt="Alostoura-Official | Trendshift" />
+<div align="center"><a href="https://github.com/Alostoura-Official?tab=achievements">
+  <img src="https://trendshift.io/api/badge/repositories/82054/" alt="Alostoura-Official | Trendshift" />
 </div><br>
 	<h3 align="left">🏆 My GitHub Achievements</h3>
 <p align="center">
