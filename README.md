@@ -8,7 +8,12 @@
 ---
 
   <p align="center">
-  <a href="https://github.com/Alostoura-Official"><img src="https://readme-typing-svg.herokuapp.com/?lines=alostoura-official;Front-end+;Android+Application;Developer&font=Cairo&center=true&width=440&height=45&color=FF0000&vCenter=true&size=22"></a>
+  <p align="center">
+  <a href="https://github.com/Alostoura-Official">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Alostoura-Official;Front-end+;Android+Application;Developer&font=Cairo&weight=700&center=true&width=440&height=45&color=FF0000&vCenter=true&size=22" alt="Typing SVG - Alostoura Official">
+  </a>
+</p>
+	  
 <hr>
 
 <div align="center"><h1>🏆 GitHub Profile Trophy</h1>
