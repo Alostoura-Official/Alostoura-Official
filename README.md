@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/Alostoura-Official"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 <hr>
 
 <div align="center"><h1>🏆 GitHub Profile Trophy</h1><h1>Front-end & Android Application Developer</h1><p>
