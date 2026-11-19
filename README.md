@@ -6,12 +6,14 @@
 - 📫 How to reach me: via my website
 
 ---
-<p align="center">
+
   <p align="center">
-  <a href="https://github.com/Alostoura-Official"><img src="https://readme-typing-svg.herokuapp.com/?lines=alostoura-official;Front-end+;Android+Application;Developer&font=Fira%20Code&center=true&width=440&height=45&color=FF0000&vCenter=true&size=22"></a>
+  <a href="https://github.com/Alostoura-Official"><img src="https://readme-typing-svg.herokuapp.com/?lines=alostoura-official;Front-end+;Android+Application;Developer&font=Cairo&center=true&width=440&height=45&color=FF0000&vCenter=true&size=22"></a>
 <hr>
 
-<div align="center"><h1>🏆 GitHub Profile Trophy</h1><h1>Front-end & Android Application Developer</h1><p>
+<div align="center"><h1>🏆 GitHub Profile Trophy</h1>
+	
+	
   <img src="/images/0sNawZ8.gif" width="35" alt="">
 </p><p>
   <a href="https://github.com/Alostoura-Official">
