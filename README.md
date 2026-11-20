@@ -8,9 +8,8 @@
 ---
 
   <p align="center">
-  <p align="center">
   <a href="https://github.com/Alostoura-Official">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Alostoura-Official;Front-end+;Android+Application;Developer&font=Cairo&weight=700&center=true&width=440&height=45&color=FF0000&vCenter=true&size=22" alt="Typing SVG - Alostoura Official">
+    <img src="/images/Alostoura-Official.svg/?lines=Alostoura-Official;Front-end+;Android+Application;Developer&font=Cairo&weight=700&center=true&width=440&height=45&color=FF0000&vCenter=true&size=22" alt="Typing SVG - Alostoura Official">
   </a>
 </p>
 	  
