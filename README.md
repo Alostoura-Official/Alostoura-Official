@@ -16,6 +16,7 @@
 </p>
 	  
 <p align="center">
+  <a href="https://github.com/Alostoura-Official">
   <img src="/images/separator.svg" alt="Divider" width="100%" />
 </p>
 
