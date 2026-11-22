@@ -5,6 +5,7 @@
 - 💞️ I'm looking to collaborate on Information Security Technology and Systems Development
 - 📫 How to reach me: via my website
 <p align="center">
+  <a href="https://github.com/Alostoura-Official">
   <img src="/images/separator.svg" alt="Divider" width="100%" />
 </p>
 
