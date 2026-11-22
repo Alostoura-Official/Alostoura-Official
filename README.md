@@ -5,19 +5,19 @@
 - 💞️ I'm looking to collaborate on Information Security Technology and Systems Development
 - 📫 How to reach me: via my website
 <p align="center">
-  <a href="#">
+  <a href="https://alostoura-official.github.io/ALOSTOURA-Typing-SVG">
   <img src="/images/separator.svg" alt="Divider" width="100%" />
 </p>
 
 
   <p align="center">
-  <a href="#">
+  <a href="https://alostoura-official.github.io/ALOSTOURA-Typing-SVG">
     <img src="/images/Alostoura-Official-Sky-Blue.svg/?lines=Alostoura-Official;Front-end+;Android+Application;Developer&font=Cairo&weight=700&center=true&width=440&height=45&color=FF0000&vCenter=true&size=22" alt="Typing SVG - Alostoura Official">
   </a>
 </p>
 	  
 <p align="center">
-  <a href="#">
+  <a href="https://alostoura-official.github.io/ALOSTOURA-Typing-SVG">
   <img src="/images/separator.svg" alt="Divider" width="100%" />
 </p>
 
