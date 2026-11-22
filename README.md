@@ -133,7 +133,7 @@ I am a front-end and Android application developer passionate about creating int
 
 
 
-<h3 align="center" > <img src="hc3YSwZ.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="/images/hc3YSwZ.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
